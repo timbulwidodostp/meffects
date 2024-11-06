@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'meffects': Cohen's f2 effect size measure after running xtmixed or mixed Use meffects With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f meffects.ado
+f meffects.hlp
